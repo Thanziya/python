@@ -1,4 +1,4 @@
-def factorial(num):
+def fibonacci(num):
   i=1
   a = -1
   b = 1
@@ -11,4 +11,4 @@ def factorial(num):
 
 
 n=int(input("enter a limit"))
-factorial(n)
+fibonacci(n)
